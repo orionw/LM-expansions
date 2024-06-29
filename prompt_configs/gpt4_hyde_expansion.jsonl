@@ -1,0 +1,1 @@
+{"prompt": "<TOPIC>", "model_name": "gpt4", "specific_name": "gpt-4", "num_examples": 2, "prompt_after": "", "temperature": 0.3, "dataset_name":"scifact_refute", "input_format": "from_query|filter_queries_by_run_300", "output_format": "strip|convert_to_ir", "write_output_only_to": "expansion_hyde_gpt4", "desc": "query_expansion"}
